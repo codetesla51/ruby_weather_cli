@@ -11,12 +11,7 @@ WeatherCLI is a command-line Ruby application that allows users to fetch weather
   - Wind speed (m/s and mph)
   - Visibility
   - Sunrise and sunset times
-  - Day length
-- Smart weather recommendations based on conditions
-- Search history tracking
-- Data caching for improved performance
 - Beautiful CLI interface with colors and animations
-- Error handling with automatic retries
 - Responsive loading animations
 - Weather condition-specific icons
 
@@ -59,5 +54,4 @@ ruby weather_cli.rb
 When you start WeatherCLI, you'll see a welcome banner and menu with the following options:
 
 - Enter a city name to check weather
-- Type 'history' or 'h' to view search history
 - Type 'exit' or 'q' to quit
