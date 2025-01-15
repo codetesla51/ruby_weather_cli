@@ -164,5 +164,5 @@ end
     system('clear') || system('cls')
   end
 end
-  weather = WeatherCLI.new("244e5e512437a9acc85c886810d3aa4d")
+  weather = WeatherCLI.new("YOUR_API_KEY_HERE")
   weather.start
